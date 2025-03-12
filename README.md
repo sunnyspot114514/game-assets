@@ -11,7 +11,7 @@ A fun and sweet memory matching game where players flip chocolate-themed cards t
 ## 🌟 Features
 - **Beautiful Chocolate Theme** 🍫  
 - **Simple and Fun Gameplay** 🕹️  
-- **12 Unique Chocolate Cards** 🍬  
+- **6 Unique Chocolate Cards** 🍬  
 - **Play in Any Modern Browser** 🌍  
 
 ## 🚀 How to Run
