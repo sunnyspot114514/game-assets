@@ -15,10 +15,7 @@ A fun and sweet memory matching game where players flip chocolate-themed cards t
 - **Play in Any Modern Browser** 🌍  
 
 ## 🚀 How to Run
-### Option 1: Play Online (GitHub Pages)
-👉 [Click Here to Play](https://your-username.github.io/game-assets/)  
-
-### Option 2: Run Locally
-1. Clone this repository:
+ Run Locally
+ Clone this repository:
    ```bash
    git clone https://github.com/sunnyspot114514/game-assets.git
